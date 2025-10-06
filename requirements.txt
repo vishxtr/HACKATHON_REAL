@@ -18,3 +18,4 @@ requests==2.31.0
 
 # Dependencies needed for builds
 wheel>=0.42.0
+streamlit
